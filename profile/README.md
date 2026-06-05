@@ -1,34 +1,34 @@
 # Fluxive Inc.
 
-**Applied AI Research Lab — AI Operating Systems for Every Organization**
+**Applied AI Research Lab** — Saratoga Springs, NY
 
----
+We build governance-first AI operating systems. Our paradigm: AI on the Org Chart — treating autonomous agents as organizational teammates with deterministic execution boundaries, not just tools.
 
-We design autonomous ecosystems and AI operating systems for organizations of every scale. Our core innovation is **Structural Symbiosis** — mathematically and cryptographically binding autonomous AI agents to human organizational logic.
+### 🛡️ 27-Patent Portfolio · 3 Series
 
-### 🧠 What We Build
+| Series | Name | Domain | Patents |
+|---|---|---|---|
+| **S1** | Foundation | AI governance & autonomous agent containment | 19 |
+| **S2** | Nanoscale | Nanotechnology governance & swarm coordination | 4 |
+| **S3** | Subatomic | Quantum computing safety & post-quantum cryptography | 4 |
 
-| Product | Description |
-|---------|-------------|
-| **[mForceOS](https://fluxive.ai/mforceos)** | Cloud-based AI Operating System with a Heads-Up Display (HUD). Command your digital workforce from any browser. |
-| **Fluxive Bridge** | The Organizational OS layer that maps AI agents onto your org chart |
-| **Fluxive Compass** | Real-time organizational intelligence — micro-shifts drive macro KPI outcomes |
-| **Fluxive Gauge** | Telemetry and alignment system for deterministic execution boundaries |
+**Foundation → Nanoscale → Subatomic** — governance at every scale of physical reality.
 
-### 🏗️ Our Approach
+### 🚀 Core Product
 
-We don't just explain AI black boxes — we **deterministically control** their outputs. Our **CALM Architecture** (Contextual Axis Logic Matrix) ensures AI agents operate with autonomy while remaining perfectly aligned to organizational goals.
+**mForceOS** — A cloud-based Machineforce Operating System. Not Windows, not macOS — an AI operating system with a Heads-Up Display for commanding and orchestrating autonomous teams on the corporate org chart.
 
-> *"AI should integrate directly onto the org chart — not as a tool, but as a teammate with a role, a manager, and KPIs."*
+### 📚 Publication
 
-### 📍 About
+*Influence Design in the AI Era* — Business Expert Press (2025)
+
+### 🔗 Links
 
 - 🌐 [fluxive.ai](https://fluxive.ai)
-- 📧 [sean@fluxive.ai](mailto:sean@fluxive.ai)
-- 📍 Saratoga Springs, New York
-- ☁️ Google Cloud Startup Program Member
-- 🏛️ SAM.gov Registered (UEI: YCAFLE6CSKV5)
+- 📋 [IP Ledger (27 Patents)](https://fluxive.ai/ip-ledger)
+- 🤖 [mForceOS](https://fluxive.ai/mforceos)
+- 📖 [Learning](https://fluxive.ai/learning)
 
 ---
 
-<sub>© 2026 Fluxive Inc. — All rights reserved.</sub>
+*Delaware C-Corporation · Google Cloud Startup Program · SAM.gov Registered*
