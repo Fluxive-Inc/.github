@@ -2,7 +2,7 @@
 
 **Applied AI Research Lab** - Saratoga Springs, NY
 
-We discover patterns. At the intersection of machine intelligence, spatial computing, and autonomous systems, our research starts with observation - finding novel structures in data, physics, and behavior - then we build from what the science tells us.
+We look for patterns in intelligence, physics, and behavior. Our research starts with observation — finding novel structures in data and systems — then we build from what the science tells us. 
 
 ---
 
